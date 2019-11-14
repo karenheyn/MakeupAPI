@@ -1,7 +1,6 @@
 {
-  "name": "rijksmuseumAPI",
+  "name": "makeupapi",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "axios": "^0.19.0",
@@ -14,5 +13,17 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karenheyn/MakeupAPI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/karenheyn/MakeupAPI/issues"
+  },
+  "homepage": "https://github.com/karenheyn/MakeupAPI#readme",
+  "description": ""
 }
