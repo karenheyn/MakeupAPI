@@ -45,7 +45,7 @@ The goal of this project was to create an API using mongoose and express with fu
 ```
 
 ### Technologoies Used
-
+- javascript
 - mongoDB
 - mongoose
 - node.js
