@@ -51,3 +51,6 @@ The goal of this project was to create an API using mongoose and express with fu
 - node.js
 - express
 - postman
+
+### Deployed on Heroku
+https://makeupinfo.herokuapp.com/product
