@@ -4,6 +4,8 @@
 
 This Restful API was built by collecting raw Json data from this [makeup API](https://makeup-api.herokuapp.com/). Each object contains information about the product including but not limited to: brand, name, product type, image, hex color, color name, price, descripion, rating, and product link. This API was created using node.js, express, and mongoose queries.
 
+### Endpoints
+
 |   Query    |           Path           | Description                            | Additional Information                                                  |
 | :--------: | :----------------------: | -------------------------------------- | ----------------------------------------------------------------------- |
 |  **POST**  |        `/id/{id}`        | create a new object                    | Number                                                                  |
