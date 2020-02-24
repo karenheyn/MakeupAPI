@@ -2,7 +2,7 @@
 
 ### About
 
-This Restful API was built by collecting raw Json data from this [makeup API](https://makeup-api.herokuapp.com/). Each object contains information about the product including but not limited to: brand, name, product type, image, hex color, color name, price, descripion, rating, and product link. This API was created using node.js, express, and mongoose queries.
+This Restful API was built by collecting raw Json data from this [makeup API](https://makeup-api.herokuapp.com/). Each object contains information about the product including but not limited to: brand, name, product type, image, hex color, color name, price, descripion, rating, and product link. This API was created using node.js, express, and mongoDB Atlas.
 
 ### Endpoints
 
@@ -49,7 +49,7 @@ The goal of this project was to create an API using mongoose and express with fu
 ### Technologoies Used
 - javascript
 - mongoDB
-- mongoose
+- mongoose queries
 - node.js
 - express
 - postman
